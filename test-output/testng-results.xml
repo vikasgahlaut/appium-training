@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="32978" started-at="2017-04-27T11:23:36Z" finished-at="2017-04-27T11:24:09Z">
+  <suite name="Default suite" duration-ms="47682" started-at="2017-04-28T10:32:11Z" finished-at="2017-04-28T10:32:58Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="32978" started-at="2017-04-27T11:23:36Z" finished-at="2017-04-27T11:24:09Z">
-      <class name="com.appium.android.SwipeAction">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.appium.android.SwipeAction@42d80b78]" name="setUp" is-config="true" duration-ms="24412" started-at="2017-04-27T16:53:36Z" finished-at="2017-04-27T16:54:00Z">
+    <test name="Default test" duration-ms="47682" started-at="2017-04-28T10:32:11Z" finished-at="2017-04-28T10:32:58Z">
+      <class name="com.appium.android.MTouchAction">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.appium.android.MTouchAction@27efef64]" name="setUp" is-config="true" duration-ms="30873" started-at="2017-04-28T16:02:11Z" finished-at="2017-04-28T16:02:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="swipingHorizontal()[pri:0, instance:com.appium.android.SwipeAction@42d80b78]" name="swipingHorizontal" duration-ms="4453" started-at="2017-04-27T16:54:00Z" finished-at="2017-04-27T16:54:05Z">
+        <test-method status="PASS" signature="mTouchAction()[pri:0, instance:com.appium.android.MTouchAction@27efef64]" name="mTouchAction" duration-ms="10919" started-at="2017-04-28T16:02:42Z" finished-at="2017-04-28T16:02:53Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- swipingHorizontal -->
-        <test-method status="PASS" signature="End()[pri:0, instance:com.appium.android.SwipeAction@42d80b78]" name="End" is-config="true" duration-ms="4085" started-at="2017-04-27T16:54:05Z" finished-at="2017-04-27T16:54:09Z">
+        </test-method> <!-- mTouchAction -->
+        <test-method status="PASS" signature="End()[pri:0, instance:com.appium.android.MTouchAction@27efef64]" name="End" is-config="true" duration-ms="5842" started-at="2017-04-28T16:02:53Z" finished-at="2017-04-28T16:02:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- End -->
-      </class> <!-- com.appium.android.SwipeAction -->
+      </class> <!-- com.appium.android.MTouchAction -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
